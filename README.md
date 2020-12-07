@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Google Search API app using serpstack API.
+  Google Search API app using serpstack for my Instagram @bart.code
 </p>
 
 ![demo](https://i.imgur.com/bu9jhzg.png)
